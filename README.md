@@ -1,6 +1,6 @@
 # Email Development Environment
 
-A simple email development starter environment
+A simple email development starter environment based on [Zurb for emails](https://foundation.zurb.com/emails.html)
 
 ## Requirements
 
