@@ -1,0 +1,22 @@
+// Mail Header
+
+.mailHeader {
+  & .mh- {
+    &top {
+      color: white;
+      margin: 0;
+    }
+    &middle {
+      color: white;
+      margin: 0;
+    }
+    &bottom {
+      color: white;
+      margin: 0;
+    }
+  }
+
+  & td {
+    padding: 0px 0!important;
+  }
+}

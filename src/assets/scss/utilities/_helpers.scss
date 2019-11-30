@@ -1,0 +1,25 @@
+// Helpers
+
+.has- {
+  &background {
+    &-transparent {
+      background: transparent !important;
+    }
+
+    &-white {
+      background: $white !important;
+    }
+
+    &-orange {
+      background: #f05924 !important;
+    }
+  }
+
+  &shadow {
+    box-shadow: 0 0 14px rgba($color: #000000, $alpha: 0.14);
+  }
+
+  &radius {
+    border-radius: $radius;
+  }
+}
